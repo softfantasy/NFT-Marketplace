@@ -3,7 +3,7 @@
 
 
 
-This is a React, JS, Solidity application, for issue, mint, list and sell NFT (ERC-721 & ERC1155) Tokens 
+This is a React, JS, Solidity application, for issue, mint, list and sell NFT (ERC-721 & ERC-1155) Tokens 
 
 
 # Idea and functionalities 
@@ -27,7 +27,7 @@ Feel free to add extra functions or improvements, This helps me to familiarise m
 
 ## Running instructions
 
-- Copy project to your directory ( git clone https://github.com/ibnzUK/NFT-Marketplace )
+- Copy project to your directory ( git clone https://github.com/softfantasy/NFT-Marketplace )
 - navigate to _NFT-Marketplace_ project directory
 - make sure you have node.js installed on your machine
 - install project packages (npm install)
